@@ -1,4 +1,4 @@
-# 🖼️ Image to ASCII Art (Python)
+# Image to ASCII Art (Python)
 
 This is a simple Python script that converts an image into **ASCII art** using characters like `@`, `#`, `S`, `%`, etc.
 
@@ -6,7 +6,7 @@ It reads an image, turns it into grayscale, maps each pixel to an ASCII characte
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.x
 - [Pillow](https://pypi.org/project/Pillow/)
@@ -19,7 +19,7 @@ pip install pillow
 
 ---
 
-## 🚀 How to Use
+##How to Use
 
 1. Clone the repo or copy the script.
 2. Run the script:
@@ -39,7 +39,7 @@ myimage.jpg
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 - Resizes the image to fit your terminal.
 - Converts it to grayscale.
@@ -48,7 +48,7 @@ myimage.jpg
 
 ---
 
-## 📁 Output Example
+##  Output Example
 
 ```text
 @#S%%**++:;
